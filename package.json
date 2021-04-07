@@ -1,9 +1,10 @@
 {
-  "name": "ReactHackernews",
+  "name": "reacthackernews",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000H\u0000a\u0000c\u0000k\u0000e\u0000r\u0000n\u0000e\u0000w\u0000s\u0000\r\u0000 \u0000",
   "main": "index.js",
   "dependencies": {
+    "lodash": "^4.17.21",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
@@ -13,5 +14,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgiDragomirov/Hackernews.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GeorgiDragomirov/Hackernews/issues"
+  },
+  "homepage": "https://github.com/GeorgiDragomirov/Hackernews#readme"
 }

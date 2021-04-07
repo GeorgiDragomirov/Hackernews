@@ -1,0 +1,2 @@
+D:\Repos\hackernews\ReactHackernews\obj\Debug\ReactFrondEnd.njsproj.CoreCompileInputs.cache
+D:\Repos\hackernews\ReactHackernews\bin\Microsoft.NodejsTools.WebRole.dll
